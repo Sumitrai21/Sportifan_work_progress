@@ -13,7 +13,7 @@ A repository to see the daily updates of my work while working with team SportiF
 
 ## Currently In Progress
 
-1. learning and Building a detection model based on YoloV3
+1. Learning and Building a detection model based on YoloV3
 2. Reading the Pdfs mentioned in the resouces section
 
 
