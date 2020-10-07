@@ -1,8 +1,8 @@
-## Sportifan_work_progress
+# Sportifan_work_progress
 A repository to see the daily updates of my work while working with team SportiFan
 
 
-# Current Plans to Do
+## Current Plans to Do
 
 1. A basic human detection model based on Yolov3
 2. Human Tracking Model
@@ -11,11 +11,11 @@ A repository to see the daily updates of my work while working with team SportiF
 
 
 
-# Currently In Progress
+## Currently In Progress
 
 1. learning and Building a detection model based on YoloV3
 2. Reading the Pdfs mentioned in the resouces section
 
 
-# Things Done
+## Things Done
 1. Read the Lucas Kannade paper
